@@ -8,7 +8,7 @@ namespace FizzBuzz
     {
         public string Get(int num)
         {
-            return null;
+            return num.ToString();
         }
     }
 }
